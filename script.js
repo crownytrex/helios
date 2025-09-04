@@ -576,7 +576,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function contentFetchingProtocolValidation2(contentFetchingProtocolInput) {
-        const contentFetchingProtocolRegex = /^𝙼𝚊𝚍𝚎 𝚋𝚢 𝚍𝚒𝚗𝚐𝚞𝚜𝚌𝚑𝚊𝚗!$/;
+        const contentFetchingProtocolRegex = /^𝙼𝚊𝚍𝚎 𝚋𝚢 𝚌𝚛𝚘𝚠𝚗𝚢𝚝𝚛𝚎𝚡$/;
         return contentFetchingProtocolRegex.test(contentFetchingProtocolInput.textContent.trim());
     }
 

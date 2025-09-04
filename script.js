@@ -803,7 +803,7 @@ function attachClickListeners() {
 }
 
 function openGitHub() {
-    window.open('https://github.com/dinguschan-owo/Helios/', '_blank');
+    window.open('https://github.com/crownytrex/helios/', '_blank');
 }
 
 document.addEventListener('DOMContentLoaded', attachClickListeners);

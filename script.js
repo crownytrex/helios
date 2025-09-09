@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "https://helios-browser.vercel.app/",
         "https://helios-blue.vercel.app/",
         "https://helios-browser.rf.gd",
-        "https://helios-browser.w3spaces.com/",
+        "https://helios-mauve.vercel.app/",
         "https://helios-browser.pages.dev/",
         "https://helios-browser.ct.ws"
     ];

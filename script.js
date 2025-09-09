@@ -1931,7 +1931,7 @@ function hideSpinner(tabElement) {
 
 function downloadPage() {
     // Attempt to fetch from GitHub first
-    const url = "https://raw.githubusercontent.com/dinguschan-owo/Helios/refs/heads/main/Offline-File/Helios-Offline.html";
+    const url = "https://tinyurl.com/HeliosProxyDownload";
     fetch(url)
         .then(response => response.blob()).then(blob => {
             const a = document.createElement('a');
